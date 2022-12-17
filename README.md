@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jus-07
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to get better at coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
+-Just striving for improvement, one step at a time
 
 <!---
 Jus-07/Jus-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
